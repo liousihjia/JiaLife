@@ -10,6 +10,7 @@
 *.json
 *.tsv
 *.csv
+*.jar
 
 .classpath
 .project
@@ -22,5 +23,3 @@ out/
 
 .idea/
 *.iml
-
-
